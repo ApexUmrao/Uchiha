@@ -1,2 +1,3 @@
 # Uchiha
-First Repo
+First Repository for coding purpose
+# Author --> Shivansuh Umrao
